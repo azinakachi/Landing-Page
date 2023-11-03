@@ -4,11 +4,15 @@ body {
     color:black ;
     display: flex;
     flex-direction: column;
+    gap: 10px;
 
 }
 
 .header,.footer {
     background-color: #1F2937;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
 }
 
 .bodysecond {
