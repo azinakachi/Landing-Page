@@ -5,7 +5,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 10px;
-
+    
 }
 
 .header,.footer {
@@ -38,7 +38,8 @@ body {
 }
 
 .bodyimage {
-    max-width: 250px;
+    flex-wrap: wrap;
+    flex-basis: 250px;
 }
 
 h3 {
