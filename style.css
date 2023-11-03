@@ -1,0 +1,21 @@
+body {
+    font-size: 18px;
+    font-family: 'Roboto', Times, serif;
+    color:black ;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.header,.footer {
+    background-color: #1F2937;
+}
+
+.bodysecond {
+    background-color: #E5E7EB;
+}
+
+.bodyfirst img {
+    height: 200px;
+    width: 200px;
+}
