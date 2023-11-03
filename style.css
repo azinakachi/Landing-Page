@@ -21,6 +21,10 @@ body {
 
 .bodysecond {
     background-color: #E5E7EB;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .bodyfirst img {
@@ -49,4 +53,5 @@ body {
 h3 {
     align-self: center;
 }
+
 
