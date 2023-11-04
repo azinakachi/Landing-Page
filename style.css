@@ -54,8 +54,11 @@ body {
     flex-basis: 250px;
 }
 
-h3 {
+.information {
     align-self: center;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: bolder;
 }
 
 .bodythird, .banner {
@@ -93,3 +96,8 @@ a,.headertext {
     text-decoration: none;
 }
 
+.boldheader {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: bold;
+}
