@@ -145,3 +145,17 @@ a,.headertext {
     font-weight: bold;
     margin-top: 0px;
 }
+
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-radius: 15px;
+    padding: 5px;
+    padding-left: 22px;
+    padding-right: 22px;
+    border: solid white
+}
+
+.header button {
+    border-style: none;
+}
