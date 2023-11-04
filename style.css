@@ -79,11 +79,22 @@ body {
     padding: 30px;
     background-color: #3882F6;
     border-radius: 10px;
+    color: #F9FAF8;
 
+}
+
+
+.bannertext {
+    color: #E5E7EB;
 }
 
 .buttonbanner,.leftbanner {
     align-self: center;
+}
+
+.bannerheader {
+    font-size: 25px;
+    font-weight: 500;
 }
 
 ul {
