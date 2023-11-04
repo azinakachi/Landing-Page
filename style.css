@@ -25,7 +25,7 @@ body {
 
 .bodysecond {
     background-color: #E5E7EB;
-    padding: 20px;
+    padding: 80px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -117,4 +117,17 @@ a,.headertext {
 .header2,.header3 {
     align-self: center;
     
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    margin-bottom: 0px;
+}
+
+.quoteauthor {
+    align-self: flex-end;
+    font-weight: bold;
+    margin-top: 0px;
 }
