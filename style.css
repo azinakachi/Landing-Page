@@ -78,8 +78,6 @@ h3 {
     align-self: center;
 }
 
-
-
 ul {
     list-style: none;
     display: flex;
@@ -87,3 +85,11 @@ ul {
     padding-left: 0px;
     gap: 10px;
 }
+
+
+a,.headertext {
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
+}
+
