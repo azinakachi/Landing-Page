@@ -11,6 +11,7 @@ body {
     flex-direction: column;
     gap: 10px;
     justify-content: space-between;
+    flex-wrap: wrap;
     
 }
 
@@ -42,6 +43,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 50px;
+    
 }
 
 .imagesection {
@@ -159,4 +161,8 @@ button {
 .header button {
     border-style: none;
     margin-top: 15px;
+}
+
+* {
+    flex-shrink: 1;
 }
