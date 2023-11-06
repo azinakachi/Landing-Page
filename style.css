@@ -12,6 +12,7 @@ body {
     gap: 10px;
     justify-content: space-between;
     flex-wrap: wrap;
+    flex: 1;
     
 }
 
@@ -49,12 +50,12 @@ body {
 .imagesection {
     display: flex;
     gap: 25px;
-    
+    flex-wrap: wrap;
     justify-content: center;
 }
 
 .bodyimage {
-    flex-wrap: wrap;
+    
     flex-basis: 250px;
 }
 
